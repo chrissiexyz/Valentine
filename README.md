@@ -1,4 +1,4 @@
-## Valentine Aminated Message webpage
+## [Valentine Aminated Message webpage](http://chrissiexyz.github.io/valentine/)
 
 The project uses JavaScript to animate a name and the codes were adopted from a course from Codecademy [Animate your name](https://www.codecademy.com/courses/animate-your-name/0/1).  
 
@@ -20,6 +20,10 @@ In **js/main.js** file, you can define:
 3.  control the shape of bubble by setting either `bubbleShape = "square"` or `bubbleShape = "circle"`, personally I think circle shape is cuter. 
 4.  control the animation effect to be bounce the name or bounce the bubbles.
 5.  More advanced changes are to make change in the **js/bubbles.js** file.
+
+### If you have a similar project and want to use github to publish that webpage
+
+I find this article useful to help me publish the webpage [Using Github Pages to Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
 
 
 
