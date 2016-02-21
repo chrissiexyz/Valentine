@@ -11,15 +11,15 @@ The repository include the following files:
 * **js/jquery-1.10.2.min.js**: The jQuery library.
 * **README.md**: The GitHub readme file.
 
-## If you want to make changes...
+### If you want to make changes...
 
-In **js/main.js** file, you can define 
-1.  variable of the message you want to animate, as in `var message`;
+In **js/main.js** file, you can define:
+
+1.  variable of the message you want to animate, as in `var message`.
 2.  variable for colors as the array letterColors, you can uncomment the color vector to make your own combination.
 3.  control the shape of bubble by setting either `bubbleShape = "square"` or `bubbleShape = "circle"`, personally I think circle shape is cuter. 
 4.  control the animation effect to be bounce the name or bounce the bubbles.
 5.  More advanced changes are to make change in the **js/bubbles.js** file.
-
 
 
 
